@@ -1,0 +1,5 @@
+package state;
+
+public enum WallTypeId {
+	TOPLEFT, TOPRIGHT, BOTTOMLEFT, BOTTOMRIGTH, HORIZONTAL, VERTICAL
+}
