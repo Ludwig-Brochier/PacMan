@@ -14,4 +14,10 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>RESSOURCE</name>
+			<value>file:/C:/Users/CDA3BROC/Desktop/WorkSpaceJava/PacMan/res</value>
+		</variable>
+	</variableList>
 </projectDescription>
